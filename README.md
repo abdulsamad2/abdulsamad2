@@ -5,7 +5,7 @@ I'm well-versed in popular front-end frameworks  Reactjs and css framesworks Boo
 
 
 - 👀 I’m interested in Learning new techs and working on creative projects.
-- 🌱 I’m currently learning Advance Concept of React
+- 🌱 I’m currently learning Nodejs & Backend development
 - 💞️ I’m looking to collaborate on Front End Development
 - 📫 How to reach me @ info@webiocreatives.com
 - 📫 you can Hire me on Upwork https://www.upwork.com/freelancers/abdulsamadlaghari
