@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Advance Concept of React
 - 💞️ I’m looking to collaborate on Front End Development
 - 📫 How to reach me @ info@webiocreatives.com
+- 📫 you can Hire me on Upwork https://www.upwork.com/freelancers/abdulsamadlaghari
+
 
 <!---
 abdulsamad2/abdulsamad2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
