@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @abdulsamad
+
+I'm well-versed in popular front-end frameworks  Reactjs and css framesworks Bootstrap, Tailwind CSS chakraUi and have experience working with Redux for state management. Additionally, I have experience using Next.js for server-side rendering and can integrate your website with Firebase to enable real-time data syncing and more.
+
+
+
 - 👀 I’m interested in Learning new techs and working on creative projects.
 - 🌱 I’m currently learning Advance Concept of React
 - 💞️ I’m looking to collaborate on Front End Development
