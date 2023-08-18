@@ -6,6 +6,6 @@ I'm a passionate front-end developer with over 4 years of experience specializin
 
 💼 In my front-end journey, I've mastered React.js, Redux, and Context API for state management. I'm also skilled in crafting responsive and visually appealing UIs using tools like Tailwind CSS, Material-UI, and Chakra UI. I've leveraged Next.js for server-side rendering, enhancing website performance.
 
-📫 You can reach me at info@webiocreatives.com or connect with me on [Upwork](https://www.upwork.com/freelancers/abdulsamadlaghari) if you're looking to collaborate on front-end development projects.
+📫 You can reach me at inquiry@abdulsamadfolio.com or connect with me on [Upwork](https://www.upwork.com/freelancers/abdulsamadlaghari) if you're looking to collaborate on front-end development projects.
 
 Let's create exceptional digital experiences together! 🚀
