@@ -1,17 +1,11 @@
-- 👋 Hi, I’m @abdulsamad
+👋 Hi, I'm Abdul Samad
 
-I'm well-versed in popular front-end frameworks  Reactjs and css framesworks Bootstrap, Tailwind CSS chakraUi and have experience working with Redux for state management. Additionally, I have experience using Next.js for server-side rendering and can integrate your website with Firebase to enable real-time data syncing and more.
+I'm a passionate front-end developer with over 4 years of experience specializing in WordPress. I've worked extensively with various themes and plugins, creating multiple websites for clients. My expertise also extends to modern front-end technologies, where I have 1 year of experience as a React.js and nextjs specialist.
 
+🌱 I'm currently broadening my skillset by delving into Node.js and backend development. I'm always eager to learn new technologies and work on creative projects that challenge me.
 
+💼 In my front-end journey, I've mastered React.js, Redux, and Context API for state management. I'm also skilled in crafting responsive and visually appealing UIs using tools like Tailwind CSS, Material-UI, and Chakra UI. I've leveraged Next.js for server-side rendering, enhancing website performance.
 
-- 👀 I’m interested in Learning new techs and working on creative projects.
-- 🌱 I’m currently learning Nodejs & Backend development
-- 💞️ I’m looking to collaborate on Front End Development
-- 📫 How to reach me @ info@webiocreatives.com
-- 📫 you can Hire me on Upwork https://www.upwork.com/freelancers/abdulsamadlaghari
+📫 You can reach me at info@webiocreatives.com or connect with me on [Upwork](https://www.upwork.com/freelancers/abdulsamadlaghari) if you're looking to collaborate on front-end development projects.
 
-
-<!---
-abdulsamad2/abdulsamad2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's create exceptional digital experiences together! 🚀
