@@ -1,6 +1,6 @@
 👋 Hi, I'm Abdul Samad
 
-I'm a passionate front-end developer with over 4 years of experience specializing in WordPress. I've worked extensively with various themes and plugins, creating multiple websites for clients. My expertise also extends to modern front-end technologies, where I have 1 year of experience as a React.js and nextjs specialist.
+I'm a passionate front-end developer with over 4 years of experience specializing in WordPress. I've worked extensively with various themes and plugins, creating multiple websites for clients. My expertise also extends to modern front-end technologies, where I have 2 year of experience as a React.js and nextjs specialist.
 
 🌱 I'm currently broadening my skillset by delving into Node.js and backend development. I'm always eager to learn new technologies and work on creative projects that challenge me.
 
