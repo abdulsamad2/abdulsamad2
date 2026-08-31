@@ -40,6 +40,7 @@ monitoring, energy management, and industrial safety.
 |---|---|
 | **Systems** | Scalable full-stack applications, REST APIs, and real-time dashboards |
 | **Data** | High-volume synchronization pipelines and stream/batch processing |
+| **Ticketing** | Broker management platforms — inventory sync, pricing automation, margin reporting |
 | **Automation** | Web automation and resilient data-collection infrastructure |
 | **Vision** | YOLO-based detection for monitoring and safety use cases |
 | **Sensing** | Sensor-driven ML prototypes, from acquisition to inference |
@@ -47,7 +48,36 @@ monitoring, energy management, and industrial safety.
 
 ---
 
+## Ticketing &amp; Resale Systems
+
+A large part of my commercial work is **custom software for ticket brokers** — the
+operators reselling live event, sports, and concert inventory, where margin is won
+or lost on how fast and how accurately listings move.
+
+Off-the-shelf tools handle the average broker. They do not handle yours. What I build
+instead is fitted to the operation:
+
+- **Inventory management** — one source of truth across every marketplace, with
+  high-volume synchronization that keeps listings, splits, and holds accurate
+- **Automated pricing** — rules and data-driven repricing that react to demand and
+  competitor movement instead of waiting on manual sweeps
+- **Marketplace integrations** — bulk listing, delisting, and order ingestion, so
+  the same inventory works everywhere without duplicate effort
+- **Operations dashboards** — real-time visibility into sales, exposure, cost basis,
+  and per-event margin
+- **Automation** — fulfillment, reconciliation, and reporting workflows that remove
+  the repetitive manual work errors hide inside
+
+The measure of success here is commercial, not technical: fewer oversells, faster
+turnaround, tighter pricing, and more profit per event.
+
+---
+
 ## Research Direction
+
+```
+Sensors → Real-Time Data → Machine Learning → Edge/Cloud Deployment → Decision Dashboard
+```
 
 Every stage in that chain is where projects break, so I work across all of them:
 
@@ -113,4 +143,3 @@ and AI-powered full-stack products.
 <p align="center">
   <em>Building reliable software today while researching intelligent systems for tomorrow.</em>
 </p>
-
